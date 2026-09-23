@@ -1,0 +1,346 @@
+[
+  {
+    "pan_number": "LTISH2111R",
+    "name": "GAURAV YADAV",
+    "dob": "07/04/1998",
+    "father_name": "MEENA YADAV",
+    "status": "flagged",
+    "flag_reason": "expired_record"
+  },
+  {
+    "pan_number": "CLSIP5352W",
+    "name": "KAVYA SHARMA",
+    "dob": "26/09/1996",
+    "father_name": "RAVI SHARMA",
+    "status": "valid"
+  },
+  {
+    "pan_number": "DZELS5196E",
+    "name": "SHREYA VERMA",
+    "dob": "12/10/1992",
+    "father_name": "VARUN VERMA",
+    "status": "valid"
+  },
+  {
+    "pan_number": "VUKBX5724U",
+    "name": "SANJAY SINGH",
+    "dob": "05/04/1998",
+    "father_name": "KARAN SINGH",
+    "status": "valid"
+  },
+  {
+    "pan_number": "IMIMJ2258R",
+    "name": "RAHUL TIWARI",
+    "dob": "07/02/1982",
+    "father_name": "SIMRAN TIWARI",
+    "status": "flagged",
+    "flag_reason": "duplicate_pan"
+  },
+  {
+    "pan_number": "IXCDJ1243O",
+    "name": "KAVYA VERMA",
+    "dob": "27/07/1987",
+    "father_name": "ROHAN VERMA",
+    "status": "valid"
+  },
+  {
+    "pan_number": "CTVZN1691Q",
+    "name": "TANVI KAPOOR",
+    "dob": "07/09/1999",
+    "father_name": "KAVYA KAPOOR",
+    "status": "valid"
+  },
+  {
+    "pan_number": "KHBUJ5683A",
+    "name": "SNEHA AGARWAL",
+    "dob": "19/05/1976",
+    "father_name": "POOJA AGARWAL",
+    "status": "valid"
+  },
+  {
+    "pan_number": "WGELK2294R",
+    "name": "SNEHA VERMA",
+    "dob": "18/01/1977",
+    "father_name": "ASHOK VERMA",
+    "status": "valid"
+  },
+  {
+    "pan_number": "DDIXU8822D",
+    "name": "DEEPIKA DUBEY",
+    "dob": "28/07/1994",
+    "father_name": "HARSH DUBEY",
+    "status": "valid"
+  },
+  {
+    "pan_number": "FLAIR4141T",
+    "name": "SHREYA SHARMA",
+    "dob": "13/10/1993",
+    "father_name": "AARTI SHARMA",
+    "status": "valid"
+  },
+  {
+    "pan_number": "XTMGG6756I",
+    "name": "SANJAY PATEL",
+    "dob": "10/04/1983",
+    "father_name": "NIKHIL PATEL",
+    "status": "valid"
+  },
+  {
+    "pan_number": "MTRQM7026J",
+    "name": "RITU MALHOTRA",
+    "dob": "12/08/1992",
+    "father_name": "RAVI MALHOTRA",
+    "status": "flagged",
+    "flag_reason": "expired_record"
+  },
+  {
+    "pan_number": "CLLYW2519U",
+    "name": "NEHA TIWARI",
+    "dob": "07/03/1986",
+    "father_name": "DIVYA TIWARI",
+    "status": "valid"
+  },
+  {
+    "pan_number": "ASBBA3524R",
+    "name": "VIKRAM MALHOTRA",
+    "dob": "16/04/2000",
+    "father_name": "MANOJ MALHOTRA",
+    "status": "valid"
+  },
+  {
+    "pan_number": "LZZBF2988L",
+    "name": "NEHA YADAV",
+    "dob": "27/09/1997",
+    "father_name": "SANJAY YADAV",
+    "status": "valid"
+  },
+  {
+    "pan_number": "MKCRJ4806U",
+    "name": "SNEHA VERMA",
+    "dob": "24/06/2000",
+    "father_name": "ARJUN VERMA",
+    "status": "valid"
+  },
+  {
+    "pan_number": "WEYCE5621S",
+    "name": "ANJALI MALHOTRA",
+    "dob": "02/10/1977",
+    "father_name": "DIVYA MALHOTRA",
+    "status": "valid"
+  },
+  {
+    "pan_number": "ZHVNM4728C",
+    "name": "KARAN JOSHI",
+    "dob": "08/08/1993",
+    "father_name": "DIVYA JOSHI",
+    "status": "flagged",
+    "flag_reason": "duplicate_pan"
+  },
+  {
+    "pan_number": "XDDMN5374X",
+    "name": "HARSH TIWARI",
+    "dob": "27/09/1989",
+    "father_name": "KAVYA TIWARI",
+    "status": "valid"
+  },
+  {
+    "pan_number": "ISOER3715M",
+    "name": "SHREYA SHARMA",
+    "dob": "10/04/1988",
+    "father_name": "NEHA SHARMA",
+    "status": "valid"
+  },
+  {
+    "pan_number": "TOUNA3098Z",
+    "name": "NEHA JAIN",
+    "dob": "08/10/2005",
+    "father_name": "PRIYA JAIN",
+    "status": "valid"
+  },
+  {
+    "pan_number": "AOZJQ7679G",
+    "name": "VARUN SHARMA",
+    "dob": "05/04/1979",
+    "father_name": "DIVYA SHARMA",
+    "status": "valid"
+  },
+  {
+    "pan_number": "TYGEU1419Z",
+    "name": "AARTI RATHORE",
+    "dob": "22/12/2000",
+    "father_name": "ISHA RATHORE",
+    "status": "valid"
+  },
+  {
+    "pan_number": "SJKDR8887H",
+    "name": "POOJA TIWARI",
+    "dob": "02/09/1982",
+    "father_name": "SANJAY TIWARI",
+    "status": "valid"
+  },
+  {
+    "pan_number": "OSSKL2871N",
+    "name": "SURESH AGARWAL",
+    "dob": "07/06/1978",
+    "father_name": "VIKRAM AGARWAL",
+    "status": "valid"
+  },
+  {
+    "pan_number": "RCLWE2343M",
+    "name": "KARAN RATHORE",
+    "dob": "27/02/1990",
+    "father_name": "KARAN RATHORE",
+    "status": "valid"
+  },
+  {
+    "pan_number": "HZUNR5918I",
+    "name": "SNEHA GUPTA",
+    "dob": "18/03/1983",
+    "father_name": "SIMRAN GUPTA",
+    "status": "valid"
+  },
+  {
+    "pan_number": "JLJNI8819U",
+    "name": "HARSH JOSHI",
+    "dob": "23/03/1988",
+    "father_name": "POOJA JOSHI",
+    "status": "flagged",
+    "flag_reason": "font_inconsistency"
+  },
+  {
+    "pan_number": "CCWPU7593R",
+    "name": "NEHA KAPOOR",
+    "dob": "28/06/1993",
+    "father_name": "HARSH KAPOOR",
+    "status": "valid"
+  },
+  {
+    "pan_number": "YWEMF4039I",
+    "name": "AARTI JOSHI",
+    "dob": "14/12/2005",
+    "father_name": "NEHA JOSHI",
+    "status": "valid"
+  },
+  {
+    "pan_number": "GESJB4193Z",
+    "name": "TANVI JAIN",
+    "dob": "01/11/1981",
+    "father_name": "ANJALI JAIN",
+    "status": "valid"
+  },
+  {
+    "pan_number": "SRBQN2429W",
+    "name": "SHREYA JAIN",
+    "dob": "11/01/1982",
+    "father_name": "RITU JAIN",
+    "status": "valid"
+  },
+  {
+    "pan_number": "RPKPM2596D",
+    "name": "RITU DUBEY",
+    "dob": "09/11/1985",
+    "father_name": "GAURAV DUBEY",
+    "status": "valid"
+  },
+  {
+    "pan_number": "SZNHC1210R",
+    "name": "VIKRAM AGARWAL",
+    "dob": "02/01/1992",
+    "father_name": "NEHA AGARWAL",
+    "status": "flagged",
+    "flag_reason": "name_mismatch"
+  },
+  {
+    "pan_number": "SURME2070K",
+    "name": "PRIYA VERMA",
+    "dob": "16/09/2004",
+    "father_name": "MANOJ VERMA",
+    "status": "valid"
+  },
+  {
+    "pan_number": "EBRUZ8834L",
+    "name": "POOJA IYER",
+    "dob": "07/11/1983",
+    "father_name": "DEEPIKA IYER",
+    "status": "valid"
+  },
+  {
+    "pan_number": "SFIZQ4512K",
+    "name": "RAHUL MALHOTRA",
+    "dob": "08/10/1982",
+    "father_name": "SHREYA MALHOTRA",
+    "status": "valid"
+  },
+  {
+    "pan_number": "HFIRW5290U",
+    "name": "KAVYA AGARWAL",
+    "dob": "01/06/1999",
+    "father_name": "PRIYA AGARWAL",
+    "status": "valid"
+  },
+  {
+    "pan_number": "STRJB6338X",
+    "name": "HARSH REDDY",
+    "dob": "10/11/1988",
+    "father_name": "RAVI REDDY",
+    "status": "valid"
+  },
+  {
+    "pan_number": "OXJYF5826J",
+    "name": "TANVI KAPOOR",
+    "dob": "26/02/2000",
+    "father_name": "MANOJ KAPOOR",
+    "status": "flagged",
+    "flag_reason": "tampered_document"
+  },
+  {
+    "pan_number": "UPILR5797V",
+    "name": "AMIT REDDY",
+    "dob": "22/11/1994",
+    "father_name": "RAVI REDDY",
+    "status": "valid"
+  },
+  {
+    "pan_number": "KPNYF7236J",
+    "name": "SANJAY NAIR",
+    "dob": "25/02/1975",
+    "father_name": "AARTI NAIR",
+    "status": "valid"
+  },
+  {
+    "pan_number": "XPSWT3037N",
+    "name": "SHREYA DUBEY",
+    "dob": "20/04/1990",
+    "father_name": "ISHA DUBEY",
+    "status": "valid"
+  },
+  {
+    "pan_number": "QAHFT6804A",
+    "name": "AMIT MISHRA",
+    "dob": "17/10/1975",
+    "father_name": "ANJALI MISHRA",
+    "status": "valid"
+  },
+  {
+    "pan_number": "OGPXK2950B",
+    "name": "TANVI GUPTA",
+    "dob": "21/03/2000",
+    "father_name": "VIKRAM GUPTA",
+    "status": "valid"
+  },
+  {
+    "pan_number": "IVTRF1024Y",
+    "name": "AMIT JOSHI",
+    "dob": "21/10/1981",
+    "father_name": "KAVYA JOSHI",
+    "status": "valid"
+  },
+  {
+    "pan_number": "MCYMG3697Y",
+    "name": "VARUN YADAV",
+    "dob": "10/02/1993",
+    "father_name": "RAHUL YADAV",
+    "status": "flagged",
+    "flag_reason": "expired_record"
+  }
+]
